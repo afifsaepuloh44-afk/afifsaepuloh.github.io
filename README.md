@@ -1,2 +1,2 @@
-# afifsaepuloh.github.io
+# afif.github.io
 Afif Saepuloh website
